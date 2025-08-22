@@ -1,0 +1,219 @@
+         MINICLIP SOFTWARE DEVELOPMENT KIT (“SDK”) LICENSE AGREEMENT
+
+   BEFORE YOU (“YOU” OR “LICENSEE”) USE THE MINICLIP SDK, PLEASE READ ALL OF THE
+   TERMS AND CONDITIONS SET OUT IN THIS LICENSE AGREEMENT (“AGREEMENT”) CAREFULLY.
+   YOUR USE OF THE MINICLIP SDK IS SUBJECT TO THE TERMS AND CONDITIONS SET FORTH IN
+   THIS AGREEMENT. BY CLICKING THE “I AGREE” BUTTON OR BY USING ANY PART OF THE
+   MINICLIP SDK, YOU AGREE (ON BEHALF OF YOURSELF AND/OR YOUR COMPANY) TO THE TERMS
+   AND CONDITIONS OF THIS AGREEMENT, WHICH THEN COMMENCES WITH EFFECT AS A LEGAL
+   AGREEMENT BETWEEN YOU AND THE MINICLIP GROUP. IF YOU DO NOT OR CANNOT AGREE TO
+   THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST NOT DOWNLOAD OR USE THE
+   MINICLIP SDK.
+
+   1.  Definitions.
+
+      1.1 “Miniclip Group” means any subsidiary or holding company from time to
+      time of Miniclip SA.
+
+      1.2 “Miniclip SDK” includes the documentation, software, both source code
+      and object code, sample applications, emulator, tools, libraries, APIs,
+      data, and materials provided by the Miniclip Group to You for use in
+      connection with Your mobile application, and includes any updates that may
+      be provided by the Miniclip Group.
+
+      1.3 “Miniclip Services” by integrating the Miniclip SDK with your mobile
+      application, you will be able to use any Miniclip services (subject to
+      entering into a commercial agreement with Miniclip pertaining to such
+      services) which require the integration of the Miniclip SDK, which include,
+      without limitation, the selling of ad space inventory on your mobile
+      application to advertisers programmatically or any other relevant services.
+
+      1.4 “You” (or “Your”) shall mean an individual or legal entity exercising
+      permissions granted by this License.
+
+   2.  License Grant.
+
+      2.1 Subject to Your compliance with these terms and conditions of this
+      Agreement, the Miniclip Group hereby grants to You a royalty-free,
+      non-exclusive, non-transferable and worldwide license to download and use
+      the SDK for the sole purpose of connecting to and using the Miniclip
+      Services.
+
+   3.  Restrictions.
+
+      3.1 Except for the limited license granted to You herein, You agree that all
+      right, title and interest in and to the Miniclip SDK including the concepts
+      and technology inherent in them, trademarks, copyrights, patents, trade
+      secrets and other intellectual property rights, are, and at all times shall
+      remain, the sole and exclusive property of the Miniclip Group. Except to the
+      extent permitted under this Agreement or by applicable law, You shall not
+      (i) modify, reverse engineer or disassemble any portion of the Miniclip SDK;
+      (ii) lease, rent, copy, redistribute or sublicense the Miniclip SDK to third
+      party; or (iii) remove, efface or obscure any copyright notices, logos or
+      other proprietary notices or legends included in the Miniclip SDK. You may
+      not use any component part of the Miniclip SDK in any way independent from
+      the Miniclip SDK. You may not load or install any of the Miniclip SDK onto
+      any other devices, except on Your mobile application.
+
+      3.2 The Miniclip Group may extend, enhance, or otherwise modify the Miniclip
+      SDK at any time without notice. If updates are made available by the
+      Miniclip Group, the terms of this Agreement will govern such updates, unless
+      the update is accompanied by a separate license, in which case the terms of
+      that license will govern. The Miniclip Group is not obligated to provide any
+      maintenance, technical or other support for the Miniclip SDK. You
+      acknowledge that the Miniclip Group has no express or implied obligation to
+      announce or make available any updates to the Miniclip SDK.
+
+   4.  Use of the Miniclip SDK and compliance with laws.
+
+      4.1 Your application(s) must not (i) breach any applicable laws, regulations
+      or generally accepted practices or guidelines in the applicable
+      jurisdictions; (ii) contain any material, component or code which could
+      damage, destroy, unduly burden or unreasonably affect software, firmware,
+      hardware, data, systems, services, or networks; or (iii) disable, hack or
+      otherwise interfere with any authentication, content protection, digital
+      signing, digital rights management, security or verification mechanisms
+      implemented in or by the Miniclip Group and/or the Miniclip Services.
+
+      4.2 Your mobile application(s) must not breach any applicable laws,
+      regulations or generally accepted practices or guidelines in the applicable
+      jurisdictions or disable, unduly burden or unreasonably interfere with
+      software, firmware, hardware, data, systems, services, or networks.
+
+      4.3 You agree that You are solely liable for any breach of your obligations
+      under this Agreement or any applicable laws or regulations, and for the
+      consequences of any such breach.
+
+   5.  DISCLAIMER OF WARRANTY.
+
+      5.1 THE MINICLIP SDK IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. THE
+      MINICLIP GROUP DOES NOT WARRANT THAT THE USE OF THE MINICLIP SDK WILL NOT
+      INFRINGE ANY THIRD PARTY’S INTELLECTUAL PROPERTY RIGHTS. MINICLIP DOES NOT
+      WARRANT THAT THE MINICLIP SDK IS ERROR FREE AND MAKE NO WARRANTIES, EXPRESS
+      OR IMPLIED, WITH RESPECT TO THE MINICLIP SDK, INCLUDING BUT NOT LIMITED TO
+      ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR
+      AGAINST INFRINGEMENT, OR ANY EXPRESS OR IMPLIED WARRANTY ARISING OUT OF
+      TRADE USAGE OR OUT OF A COURSE OF DEALING OR COURSE OF PERFORMANCE. NO
+      INFORMATION OR ADVICE GIVEN BY THE MINICLIP GROUP OR ITS AGENTS, EMPLOYEES,
+      OR REPRESENTATIVES, WHETHER ORAL OR WRITTEN, SHALL CREATE ANY REPRESENTATION
+      OR WARRANTY.
+
+      5.2 LIMITATION OF LIABILITY TO THE EXTENT PERMITTED BY LAW, IN NO EVENT
+      SHALL THE MINICLIP GROUP BE LIABLE FOR PERSONAL INJURY OR ANY INCIDENTAL,
+      SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, OR FOR LOSS OF
+      PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR FOR ANY PECUNIARY DAMAGES
+      OR LOSSES, ARISING OUT OF OR RELATED TO YOUR GRANT OF LICENSE HEREIN, OR
+      INABILITY TO USE THE MINICLIP SDK, THE PROVISION OF OR FAILURE TO PROVIDE
+      SUPPORT OR OTHER SERVICES, INFORMATION, SOFTWARE, AND RELATED CONTENT
+      THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE MINICLIP
+      SDK, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS
+      AGREEMENT, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT,
+      TORT OR OTHERWISE) AND EVEN IF THE MINICLIP GROUP HAS BEEN ADVISED OF THE
+      POSSIBILITY OF SUCH DAMAGES.
+
+   6.  Indemnification.
+
+      6.1 You agree to indemnify, defend and hold harmless the Miniclip Group from
+      any claims, damages, liabilities, losses, costs, suits or expenditures
+      incurred by the Miniclip Group, as a result of any infringement or alleged
+      infringement of intellectual property rights of a third party caused by or
+      arising out of, resulting from, or related to failure to comply with the
+      terms of this Agreement, including but not limited to (1) unauthorized use
+      or disclosure of SDK, and (2) use of SDK in combination with software,
+      hardware, systems, or other items not provided by the Miniclip Group.
+
+   7.  Confidentiality.
+
+      7.1 You acknowledge and agree that the Miniclip SDK contains valuable trade
+      secrets and Confidential Information of the Miniclip Group. “Confidential
+      Information” includes, but is not limited to, any confidential or sensitive
+      proprietary information about the Miniclip Group’s business methods, plans,
+      relationships, pricing, processes, policies, non-public financial
+      information, and these terms and conditions. Accordingly, You agree to
+      maintain the Miniclip SDK in confidence and except as expressly provided in
+      Section 2, You (i) will not disclose or provide access thereto to any
+      person, or (ii) use the Miniclip SDK for any purpose not expressly
+      authorized hereby, or permit or authorize any other person to do so. You
+      acknowledge and agree that any violation of this clause would constitute a
+      material breach of this Agreement and is grounds for immediate termination.
+      The provisions of this clause shall survive the expiration or termination of
+      the Agreement.
+
+      7.2 The restriction herein shall not apply to the extent that such
+      information is in the public domain or hereafter falls into the public
+      domain through no fault of You. Any combination of trade secrets and
+      information of the Miniclip Group that forms part of the Miniclip SDK shall
+      not be deemed to be public merely because individual parts of the Miniclip
+      SDK are in the public domain, unless the combination itself is in the public
+      domain.
+
+   8.  Term and Termination.
+
+      8.1 Term. This Agreement shall remain in full force and effect until
+      terminated by You or the Miniclip Group in accordance with the terms of this
+      Agreement.
+
+      8.2 Termination. You may terminate this Agreement simply by ceasing Your use
+      of the Miniclip SDK. The Miniclip Group may terminate this Agreement (i) at
+      any time for any or no reason upon 14 day’s written notice to you or (ii)
+      immediately upon written notice to You if You have materially breached this
+      Agreement.
+
+      8.3 Effect of Termination. Upon termination of this Agreement: (a) all
+      license rights granted in this Agreement will terminate; (b) You shall
+      promptly stop the distribution of the Miniclip SDK and destroy all
+      electronic copies of the Miniclip SDK and/or return the Miniclip SDK to the
+      Miniclip Group. Sections 3, 4, 5, 6, 7, 8.3 and General terms below shall
+      survive the expiration or termination of this Agreement.
+
+   9.  General.
+
+      9.1 Assignment and other dealings. You may not assign, novate, transfer,
+      mortgage, charge, subcontract or delegate any of Your rights or obligations
+      under this Agreement, without the Miniclip Group’s prior written consent.
+
+      9.2 No Partnership. Each party shall be and act as an independent contractor
+      and not as partner, joint venturer, or agent of the other. No party shall
+      have any right to obligate or bind any other party.
+
+      9.3 No waiver and Variation. The failure or delay by the Miniclip Group or
+      You to insist upon strict performance of any of the provisions contained in
+      this Agreement shall in no way constitute a waiver of its rights as set
+      forth in this Agreement, at law or in equity, or a waiver of any other
+      provisions or subsequent default by the other party in the performance or
+      compliance with any of the terms and conditions set forth in this Agreement.
+      This Agreement may be modified by the Miniclip Group without notice.
+
+      9.4 Severance. If any provision or part-provision of the Agreement is or
+      becomes invalid, illegal or unenforceable, it shall be deemed modified to
+      the minimum extent necessary to make it valid, legal and enforceable. If
+      such modification is not possible, the relevant provision or part-provision
+      shall be deemed deleted. Any modification to or deletion of a provision or
+      part-provision under this clause 9.4 shall not affect the validity and
+      enforceability of the rest of the Agreement.
+
+      9.5 Third party rights. The Agreement does not give rise to any rights under
+      the Contracts (Rights of Third Parties) Act 1999 to enforce any terms of the
+      Agreement. The rights of the parties to rescind or vary the Agreement are
+      not subject to the consent of any other person.
+
+      9.6 Export Compliance. You are responsible for applying for and obtaining
+      all export and import licenses and/or authorizations related to the Miniclip
+      SDK or applications, including without limitation all such licenses and
+      authorizations required by any and all governmental bodies and/or regulatory
+      agency.
+
+      9.7 Force majeure. Neither party shall be in breach of the Agreement nor
+      liable for delay in performing, or failure to perform, any of its
+      obligations under the Agreement if such delay or failure result from events,
+      circumstances or causes beyond its reasonable control.
+
+      9.8 Entire Agreement. This Agreement contains the entire agreement of You
+      and the Miniclip Group with respect to its subject matter and supersedes all
+      existing agreements and all other oral, written or other communications
+      between the You and the Miniclip Group concerning this subject matter.
+
+      9.9 Governing Law and Jurisdiction. This Agreement shall be governed by and
+      construed in accordance with the laws of England and Wales. Each party
+      agrees to submit to the personal and exclusive jurisdiction of the courts of
+      England.
