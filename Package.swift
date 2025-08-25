@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "OneRingSPM",
+    name: "OneRing",
     platforms: [
         .iOS(.v12)
     ],
